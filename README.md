@@ -9,11 +9,6 @@
 
   <p><b>Building secure, connected, and intelligent digital systems.</b></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rakhandhiyafa&label=Profile views&color=0e75b6&style=flat" alt="Rakhandhiyafa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rakhandhiyafa" alt="Rakhandhiyafa" /></a> </p>
-
 - 🔭 I'm currently working on **Glowrithm — Smart Skincare Recommendation App**
 
 - 🌱 I'm currently learning **Pentesting, Cybersecurity, AI, IoT, Software Development, Cloud Computing**

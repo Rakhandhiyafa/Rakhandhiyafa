@@ -1,8 +1,11 @@
 # Hi there, I'm Rakhandhiya Fasya Albana 👋 
 
-<div align="center">
-
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=500&lines=Telecommunication+Engineering+Student;Networking+%26+Cybersecurity+Enthusiast;IoT+%26+Embedded+Systems+Developer;AI+%26+Full-Stack+Explorer)
+<!-- Terminal Emulator Widget (Animated) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=00FF66&background=0D1117&width=580&height=180&lines=%24+whoami;Mahasiswa+Teknik+Telekomunikasi+%2F+Informatika;%24+cat+skills.txt;Networking+%7C+IoT+%7C+Deep+Learning;%24+git+status;Working+on+Capstone+Project...;%24+ping+future+-c+4;4+packets+transmitted%2C+0%25+packet+loss." alt="Terminal Emulator Widget" />
+  </a>
+</p>
 
   <p><b>Building secure, connected, and intelligent digital systems.</b></p>
 

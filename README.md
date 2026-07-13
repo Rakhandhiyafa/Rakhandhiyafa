@@ -3,7 +3,7 @@
 <!-- Terminal Emulator Widget (Animated) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=00FF66&background=0D1117&width=580&height=180&lines=%24+whoami;Mahasiswa+Teknik+Telekomunikasi+%2F+Informatika;%24+cat+skills.txt;Networking+%7C+IoT+%7C+Deep+Learning;%24+git+status;Working+on+Capstone+Project...;%24+ping+future+-c+4;4+packets+transmitted%2C+0%25+packet+loss." alt="Terminal Emulator Widget" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=00FF66&background=0D1117&width=580&height=180&lines=%24+whoami;Mahasiswa+Teknik+Telekomunikasi;%24+cat+skills.txt;Networking+%7C+IoT+%7C+Deep+Learning;%24+git+status;Working+on+Capstone+Project...;%24+ping+future+-c+4;4+packets+transmitted%2C+0%25+packet+loss." alt="Terminal Emulator Widget" />
   </a>
 </p>
 
